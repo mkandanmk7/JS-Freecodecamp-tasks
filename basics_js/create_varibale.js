@@ -151,4 +151,5 @@ const product = 2.0 * 2.5;
 const quotient = 4.4 / 2.0; // Change this line
 
 // --------------------------------------------------------
-
+// 21.Set remainder equal to the remainder of 11 divided by 3 using the remainder (%) operator.
+const remainder = 11 % 3;
